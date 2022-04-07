@@ -1,6 +1,7 @@
 <?php
 /*
 Plugin Name: Emojis
+Plugin URI: https://github.com/telepathics/yourls-emojis
 Description: Create an emoji-only short link, like http://sho.rt/✨ or http://sho.rt/😎🆒🔗
 Version: 1.0
 Author: telepathics
